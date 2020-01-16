@@ -8,4 +8,5 @@ perceptron_20classifier: trained 20 classifiers with one vs all method.
 
 
 results:
+
 accuracy: 56.7%
